@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /aurora-digital-foundry-site/
+
+Sitemap: https://hirrok.github.io/aurora-digital-foundry-site/sitemap.xml
