@@ -1,0 +1,9 @@
+# RETIRED MIRROR — publish only redirect surfaces.
+exclude:
+  - insights
+  - simulators
+  - store
+  - foundry-hq.html
+  - googlefe98c583172b5f45.html
+  - robots.txt
+  - sitemap.xml

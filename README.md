@@ -1,13 +1,17 @@
-# Aurora Digital Foundry — Public Site
+# RETIRED — Aurora Digital Foundry site mirror
 
-Canonical public commercial website for Aurora Digital Foundry.
+This repository is **retired** and is no longer an authoritative Aurora Digital Foundry source.
 
-This repository contains public-facing ADF assets only: company homepage, Website Conversion Audit storefront, Conversion Notes, and public showroom simulator pages.
+## Canonical repository
 
-It does **not** contain Foundry operations, internal queues, private data, operator source, or internal build tooling.
+**hirrok/adf-hq**
 
-Public GitHub Pages target: https://hirrok.github.io/aurora-digital-foundry-site/
+https://github.com/hirrok/adf-hq
 
-Commercial contact: revenue-engine@agentmail.to
+## Canonical public site
 
-Status: PUBLIC SITE — CANONICAL COMMERCIAL SURFACE
+https://hirrok.github.io/adf-hq/
+
+All active ADF website development, Insights, Field Notes, publishing automation, media, simulators, store surfaces, and canonical public state now live in `hirrok/adf-hq`.
+
+This repository is retained temporarily as historical evidence only. Do not publish, fork forward, or use it as a source of current ADF state.
